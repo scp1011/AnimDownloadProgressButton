@@ -1,4 +1,4 @@
-package com.js.mylibrary;
+package com.js.library;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;

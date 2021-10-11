@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.js.mylibrary.AnimDownloadProgressButton;
+import com.js.library.AnimDownloadProgressButton;
 
 
 public class MainActivity extends AppCompatActivity {

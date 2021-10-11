@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnimDownloadProgressButton-git.iml" filepath="$PROJECT_DIR$/.idea/modules/AnimDownloadProgressButton-git.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/AnimDownloadProgressButton-git.mylibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/AnimDownloadProgressButton-git.mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/AnimDownloadProgressButton-git.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/AnimDownloadProgressButton-git.library.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/progressbutton/AnimDownloadProgressButton-git.progressbutton.iml" filepath="$PROJECT_DIR$/.idea/modules/progressbutton/AnimDownloadProgressButton-git.progressbutton.iml" />
     </modules>
   </component>

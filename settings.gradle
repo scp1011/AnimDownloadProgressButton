@@ -1,1 +1,1 @@
-include ':progressbutton', ':mylibrary'
+include ':progressbutton', ':library'

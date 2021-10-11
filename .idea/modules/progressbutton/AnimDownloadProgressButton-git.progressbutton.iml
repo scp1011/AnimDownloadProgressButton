@@ -52,6 +52,6 @@
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:23.1.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:recyclerview-v7:23.1.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-v4:23.1.1@aar" level="project" />
-    <orderEntry type="module" module-name="AnimDownloadProgressButton-git.mylibrary" />
+    <orderEntry type="module" module-name="AnimDownloadProgressButton-git.library" />
   </component>
 </module>
